@@ -1,0 +1,53 @@
+.div1 {
+    width: 100%;
+    height: 127px;
+    background-color: #c42d34;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.divheader {
+    width: 80%;
+    height: 122px;
+    background-color: #c42d34;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.divbar {
+    width: 100%;
+    height: 77px;
+    background-color: #e7e2df;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h2 {
+    color: #FFFFFF;    ;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.lista {
+    width: 70%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 18px;
+}
+
+.icons-socialmedia {
+    width: 100px;
+    height: 30px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icons-socialmedia > img {
+    width: 30px;
+}

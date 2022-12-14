@@ -48,10 +48,14 @@ li, h3 {
     display: flex;
     justify-content: center;
     align-items: center;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    font-size: 12px;
 }
 
 .boxfooter {
     width: 80%;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
